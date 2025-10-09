@@ -1,1 +1,2 @@
 echo "Hello GitHub!" > hello.txt 
+This is my first GitHub project! 
